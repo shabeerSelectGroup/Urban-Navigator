@@ -1,7 +1,7 @@
 <template>
   <div class="max-w-5xl mx-auto p-6 bg-white rounded-xl shadow-lg my-4 relative overflow-hidden">
     <!-- Header Section -->
-    <div class="text-center mb-8 p-6 bg-gradient-to-r from-blue-600 to-blue-800 text-white rounded-xl shadow-md">
+    <div class="text-center mb-8 p-6 text-white rounded-xl shadow-md">
       <h1 class="text-2xl md:text-3xl font-bold mb-2">Sharjah – Al Noor Mosque / Art Museum</h1>
       <h2 class="text-xl md:text-2xl mb-4 opacity-90">QR Match of Meaning</h2>
 
