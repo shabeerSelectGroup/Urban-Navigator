@@ -142,7 +142,8 @@ export default {
       progress: 0,
       isDraggingOver: null,
       touchClone: null,
-      currentTouchDrop: null
+      currentTouchDrop: null,
+      gameOver: false
     };
   },
   computed: {
