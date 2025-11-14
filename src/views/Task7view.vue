@@ -3,13 +3,16 @@
     <div class="max-w-3xl mx-auto">
       <!-- Header Section -->
       <div class="bg-white rounded-xl shadow-md p-5 mb-6 transition-all duration-200 hover:shadow-sm">
-        <div class="text-center">
-          <span class="inline-block px-2.5 py-0.5 text-[11px] font-semibold text-blue-600 bg-blue-100 rounded-full mb-2">HISTORICAL TIMELINE</span>
-          <h1 class="text-2xl md:text-3xl font-bold bg-gradient-to-r from-blue-600 to-indigo-600 bg-clip-text text-transparent">
-            Fujairah – Al Bidyah Mosque
-          </h1>
-          <div class="w-16 h-0.5 bg-gradient-to-r from-blue-400 to-indigo-400 mx-auto my-3 rounded-full"></div>
-          <h2 class="text-lg text-gray-600 font-medium">Chronicles of Time</h2>
+        <div class="text-center space-y-1">
+          <div class="flex flex-col items-center -mb-1">
+            <img src="@/assets/logo.png" alt="Logo" class="h-10 md:h-12 w-auto">
+            <h1 class="text-xl md:text-2xl font-bold bg-gradient-to-r from-blue-600 to-indigo-600 bg-clip-text text-transparent">
+              Urban Navigator
+              <div class="text-xs md:text-sm font-medium text-gray-500">Fujairah – Al Bidyah Mosque</div>
+            </h1>
+          </div>
+          <div class="w-12 h-0.5 bg-gradient-to-r from-blue-400 to-indigo-400 mx-auto my-1.5 rounded-full"></div>
+          <h2 class="text-base text-gray-600 font-medium">Chronicles of Time</h2>
         </div>
         
         <p class="text-sm text-gray-600 text-center max-w-2xl mx-auto mt-3 mb-4 leading-relaxed">
